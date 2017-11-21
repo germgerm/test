@@ -1,0 +1,11 @@
+{
+  "Assembly": "bin/Debug/x.exe",
+  "Context": "DbApp.Data.ThingContextWithMigrations",
+  "Key": "DbApp.Data.ThingContextWithMigrations",
+  "Directory": "Migrations",
+  "Namespace": "DbApp.Migrations",
+  "ConnectionString": "ThingContextWithMigrations",
+  "Count": 2,
+  "AllowDataLoss": false,
+  "EnableAutoMigration": false
+}
